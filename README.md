@@ -1,2 +1,2 @@
-# Lexus BDC Response Bot Backend
-Secure backend for the Lexus BDC response generator.
+# Lexus BDC Response Bot
+Free version using OpenRouter + OpenChat 3.5 for generating Lexus appointment responses.
