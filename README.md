@@ -1,2 +1,2 @@
-# Lexus BDC Response Bot
-A simple web tool for Priority Lexus BDC team to generate luxury-brand appointment responses.
+# Lexus BDC Response Bot Backend
+Secure backend for the Lexus BDC response generator.
